@@ -1,11 +1,11 @@
 # react-global-components Example
-> This project is basic react boilerplate code. <br/>
-> This project doesn't suggest to you about nice file structure and coding style. <br/>
+> This project is basic react boilerplate code.   
+> This project doesn't suggest to you about nice file structure and coding style.   
 > ***Only show you about react-global-components how to use it.***
 
 ## Where I am editing this source file
 
-It is version number based on [NPM](https://www.npmjs.com/package/react-global-components)(react-global-components@0.0.19)<br/>
+It is version number based on [NPM](https://www.npmjs.com/package/react-global-components)(react-global-components@0.0.19)   
 ```javascript
 // src/index.js
 /* eslint-disable react/jsx-no-undef */
