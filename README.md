@@ -8,8 +8,6 @@
 It is version number based on [NPM](https://www.npmjs.com/package/react-global-components)(react-global-components@0.0.19)   
 ```javascript
 // src/index.js
-/* eslint-disable react/jsx-no-undef */
-/* eslint-disable no-undef */
 import "./index.css";
 import App from "./App";
 
