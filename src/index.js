@@ -1,5 +1,3 @@
-/* eslint-disable react/jsx-no-undef */
-/* eslint-disable no-undef */
 import "./index.css";
 import App from "./App";
 

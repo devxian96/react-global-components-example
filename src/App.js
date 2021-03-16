@@ -1,4 +1,3 @@
-/* eslint-disable no-undef */
 import "./App.css";
 
 function App() {
